@@ -14,7 +14,7 @@ Whatsca is a Python-based application that allows you to search for WhatsApp gro
 **On General Operating Systems**
 1. Clone the repository:
     ```
-    $ git clone https://github.com/dumpoothiri/Whatsca.git
+     git clone https://github.com/dumpoothiri/Whatsca.git
     $ cd Whatsca
     ```
 2. Install the required dependencies:
