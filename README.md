@@ -62,6 +62,6 @@ If you find this project useful, consider supporting me through the following pl
     - **Solution**: Ensure your internet connection is stable. If the problem persists, try again later.
 
 ## Screenshot
-![FunPic_20240803_183247761](https://github.com/user-attachments/assets/555489c3-b4c5-4efd-beed-5b5cda98fbf0)
+![attachment](https://i.ibb.co/wMgrk4M/IMG-20241113-150914.jpg)
 
 #dumpoothiri 😸
